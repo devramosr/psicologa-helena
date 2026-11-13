@@ -32,8 +32,8 @@ Modelo de site de uma página para psicóloga ou profissional de saúde autônom
 
 | | |
 |---|---|
-| Interface | React 18 |
-| Build e dev server | Vite 5 |
+| Interface | React 19 |
+| Build e dev server | Vite 8 |
 | Estilo | CSS puro (variáveis, grid e flexbox) |
 | Fontes | Lora e DM Sans (Google Fonts) |
 
